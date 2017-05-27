@@ -1,0 +1,9 @@
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\bin\Debug\Term_Project_John_Stone.exe.config
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\bin\Debug\Term_Project_John_Stone.exe
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\bin\Debug\Term_Project_John_Stone.pdb
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\obj\Debug\Term_Project_John_Stone.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\obj\Debug\Term_Project_John_Stone.Form1.resources
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\obj\Debug\Term_Project_John_Stone.Properties.Resources.resources
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\obj\Debug\Term_Project_John_Stone.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\obj\Debug\Term_Project_John_Stone.exe
+c:\users\john\documents\visual studio 2013\Projects\Term_Project_John_Stone\Term_Project_John_Stone\obj\Debug\Term_Project_John_Stone.pdb
